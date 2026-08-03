@@ -1,0 +1,824 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-08-03T00:00:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972888221",
+        "direction": "50",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1381538,
+          36.2049466
+        ]
+      },
+      "id": "node/12972888221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972888283",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1384033,
+          36.205122
+        ]
+      },
+      "id": "node/12972888283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972888284",
+        "direction": "230",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.138069,
+          36.2052798
+        ]
+      },
+      "id": "node/12972888284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972888285",
+        "direction": "320",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1377732,
+          36.2050996
+        ]
+      },
+      "id": "node/12972888285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13166780510",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1333004,
+          36.208485
+        ]
+      },
+      "id": "node/13166780510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13166780511",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1328064,
+          36.208864
+        ]
+      },
+      "id": "node/13166780511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13166780513",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1322367,
+          36.2092919
+        ]
+      },
+      "id": "node/13166780513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13207658523",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1341592,
+          36.2078296
+        ]
+      },
+      "id": "node/13207658523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13208148602",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1365641,
+          36.2060306
+        ]
+      },
+      "id": "node/13208148602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13382253002",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1347242,
+          36.2076481
+        ]
+      },
+      "id": "node/13382253002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592862",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1433211,
+          36.2020506
+        ]
+      },
+      "id": "node/13606592862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592863",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1436739,
+          36.2018566
+        ]
+      },
+      "id": "node/13606592863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592864",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1440949,
+          36.2016284
+        ]
+      },
+      "id": "node/13606592864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592865",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1445203,
+          36.2014038
+        ]
+      },
+      "id": "node/13606592865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592866",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1449457,
+          36.2011726
+        ]
+      },
+      "id": "node/13606592866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592867",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1453673,
+          36.2009485
+        ]
+      },
+      "id": "node/13606592867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592868",
+        "direction": "145",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1457769,
+          36.2007101
+        ]
+      },
+      "id": "node/13606592868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592869",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1461399,
+          36.2004127
+        ]
+      },
+      "id": "node/13606592869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592870",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1464498,
+          36.2000872
+        ]
+      },
+      "id": "node/13606592870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592871",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.146754,
+          36.1997521
+        ]
+      },
+      "id": "node/13606592871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592872",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1470582,
+          36.1994246
+        ]
+      },
+      "id": "node/13606592872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592873",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1473681,
+          36.1990961
+        ]
+      },
+      "id": "node/13606592873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592874",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1476584,
+          36.1987589
+        ]
+      },
+      "id": "node/13606592874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592875",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1479885,
+          36.1984436
+        ]
+      },
+      "id": "node/13606592875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592876",
+        "direction": "135",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.148323,
+          36.1981355
+        ]
+      },
+      "id": "node/13606592876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592877",
+        "direction": "105",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1429846,
+          36.2023967
+        ]
+      },
+      "id": "node/13606592877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13606592878",
+        "direction": "105",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1428236,
+          36.2027764
+        ]
+      },
+      "id": "node/13606592878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213934",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.133875,
+          36.208285
+        ]
+      },
+      "id": "node/13619213934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213935",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1350114,
+          36.2072013
+        ]
+      },
+      "id": "node/13619213935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213936",
+        "direction": "310",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1357003,
+          36.2066611
+        ]
+      },
+      "id": "node/13619213936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213937",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1370223,
+          36.2059089
+        ]
+      },
+      "id": "node/13619213937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213938",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1362934,
+          36.2064615
+        ]
+      },
+      "id": "node/13619213938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213939",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1355305,
+          36.2070261
+        ]
+      },
+      "id": "node/13619213939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213940",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1326572,
+          36.2091984
+        ]
+      },
+      "id": "node/13619213940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213941",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1317714,
+          36.2096452
+        ]
+      },
+      "id": "node/13619213941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213942",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.131691,
+          36.2099292
+        ]
+      },
+      "id": "node/13619213942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213943",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1310698,
+          36.2103955
+        ]
+      },
+      "id": "node/13619213943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213944",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1306935,
+          36.2104441
+        ]
+      },
+      "id": "node/13619213944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619213946",
+        "direction": "140",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1305542,
+          36.2107865
+        ]
+      },
+      "id": "node/13619213946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619234682",
+        "direction": "105",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1427182,
+          36.2030934
+        ]
+      },
+      "id": "node/13619234682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619234683",
+        "direction": "105",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1426168,
+          36.2034048
+        ]
+      },
+      "id": "node/13619234683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619234684",
+        "direction": "105",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1425121,
+          36.2037166
+        ]
+      },
+      "id": "node/13619234684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13694219145",
+        "direction": "260",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1402677,
+          36.2107017
+        ]
+      },
+      "id": "node/13694219145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13694219146",
+        "direction": "275",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1403431,
+          36.2113392
+        ]
+      },
+      "id": "node/13694219146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13694219147",
+        "direction": "285",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1402184,
+          36.2121579
+        ]
+      },
+      "id": "node/13694219147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13694219193",
+        "direction": "325",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1372417,
+          36.2165409
+        ]
+      },
+      "id": "node/13694219193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13694219195",
+        "direction": "325",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1377628,
+          36.2162635
+        ]
+      },
+      "id": "node/13694219195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13956604855",
+        "direction": "315",
+        "highway": "street_lamp",
+        "lamp_mount": "bent_mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1312712,
+          36.2100179
+        ]
+      },
+      "id": "node/13956604855"
+    }
+  ]
+}
